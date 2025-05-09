@@ -22,8 +22,6 @@ else:
     left=[t for t in track if t<=head]
     right=[t for t in track if t>head]
 
-    print(right)
-    print(left)
 
     if left:
         movement+=head
