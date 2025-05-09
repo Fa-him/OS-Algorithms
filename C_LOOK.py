@@ -1,4 +1,4 @@
-#C_SCAN
+#C_LOOK
 #Here the track is 0 to 199
 
 n=int(input("Enter how many tracks: "))
